@@ -19,9 +19,6 @@
 
 ---
 
-> Mirrored from [kbhatnagar1506/Hivepath-AI](https://github.com/kbhatnagar1506/Hivepath-AI),
-> created by Krishna Bhatnagar. Full commit history preserved.
-
 Every logistics optimizer on the market solves the same objective: minimize
 distance, minimize time, minimize cost. That objective has a blind spot it
 never has to answer for — **it doesn't know which stops are hard to reach, so
