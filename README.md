@@ -6,7 +6,7 @@
 
 ### The routing engine that treats accessibility as a first-class constraint — not an afterthought.
 
-[![Most Loved Project — HackHarvard 2025](https://img.shields.io/badge/🏆_Most_Loved_Project-HackHarvard_2024-gold?style=for-the-badge)](#)
+[![Most Loved Project — HackHarvard 2025](https://img.shields.io/badge/🏆_Most_Loved_Project-HackHarvard_2025-gold?style=for-the-badge)](#)
 
 [![CI](https://github.com/kbhatnagar1506/Hivepath-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/kbhatnagar1506/Hivepath-AI/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
